@@ -11,3 +11,5 @@ and the second one(postZipCode) to post the data we got from api the server
 and the third one (updateUI) to update the page
 ## Extras
 If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
+
+test
